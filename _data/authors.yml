@@ -4,7 +4,13 @@ Name Name:
   name        : "Isabel Agostino"
   uri         : "https://name.com"
   email       : "iagostino@berkeley.edu"
-  bio         : "This is the first name."
+  bio         : "I am a Ph.D. candidate in Industrial Engineering & Operations Research at UC Berkeley. Research interests include "
   avatar      : "bio-photo-2.jpg"
-  OrcID     : "name"
-  LinkedIn : "linkedin.com/in/isabelagostino"
+  employer    : "University of California, Berkeley"
+  #arxiv       :
+  #googlescholar
+  orcid       : "0009-0004-0608-7554"
+  #github
+  #stackoverflow
+  linkedin    : "linkedin.com/in/isabelagostino"
+  
