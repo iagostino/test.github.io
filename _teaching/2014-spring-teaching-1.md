@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "INDENG 241 - Risk Modeling, Simulation, and Data Analysis"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: /teaching/2025-fall-teaching
+venue: "University of California, Berkeley - Department of Industrial Engineering and Operations Research"
+date: 2025-09-01
+location: "Berkeley, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This is a Masters of Engineering course, in which students will develop a fundamental understanding of how randomness and uncertainty are root causes of risk in modern enterprises. The technical material will be presented in the context of engineering team system design and operations decisions.
