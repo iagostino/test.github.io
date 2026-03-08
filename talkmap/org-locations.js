@@ -10,6 +10,11 @@ var addressPoints = [
     -0.1277653
   ],
   [
+    "Unifying discrete and continuous time mixed optimal stopping-singular stochastic optimization for power plant investment<br />SIAM Conference on Financial Mathematics and Engineering (FM25); Miami, FL, USA",
+    25.7741566,
+    -80.1935973
+  ],
+  [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
     37.8708393,
     -122.272863
