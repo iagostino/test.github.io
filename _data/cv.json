@@ -4,7 +4,7 @@
     "email": "iagostino@berkeley.edu",
     "phone": "(240) 529-3141",
     "website": "https://iagostino.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "Currently a Ph.D. candidate at the University of California, Berkeley. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "94709",
@@ -30,31 +30,39 @@
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "National Aeronautics and Space Administration - Ames Research Center",
+      "title": "OSTEM Intern",
+      "startDate": "2026-06-01",
+      "endDate": "2026-08-07",
+      "description":
+    }
+  ],
   "education": [
     {
       "institution": "University of California, Berkeley",
-      "area": "Ph.D in Industrial Engineering & Operations Research",
-      "studyType": "",
-      "startDate": "",
+      "area": "Industrial Engineering & Operations Research",
+      "studyType": "Ph.D.",
+      "startDate": "2024",
       "endDate": "2028",
       "gpa": null,
       "courses": []
     },
     {
       "institution": "University of California, Berkeley",
-      "area": "M.S. in Industrial Engineering & Operations Research",
-      "studyType": "",
-      "startDate": "",
+      "area": "Industrial Engineering & Operations Research",
+      "studyType": "M.S.",
+      "startDate": "2023",
       "endDate": "2024",
       "gpa": null,
       "courses": []
     },
     {
       "institution": "College of William & Mary",
-      "area": "B.S. in Mathematics",
-      "studyType": "",
-      "startDate": "",
+      "area": "Mathematics with minor in Economics",
+      "studyType": "B.S.",
+      "startDate": "2018",
       "endDate": "2022",
       "gpa": null,
       "courses": []
@@ -76,10 +84,10 @@
   "presentations": [
     {
       "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "event": "SIAM Conference on Financial Mathematics and Engineering (FM25)",
+      "date": "2025-07-16",
+      "location": "Miami, FL, USA",
+      "description": "Talk in mini-symposium 28: Recent Advances in Stochastic Control with Multiple Players, Incentives, and Financial Economics"
     },
   ],
   "teaching": [
