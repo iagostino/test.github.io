@@ -1,118 +1,147 @@
 {
   "basics": {
     "name": "Isabel Agostino",
+    "headline": "Ph.D. Candidate in Industrial Engineering & Operations Research",
+    "location": "Berkeley, CA",
     "email": "iagostino@berkeley.edu",
-    "phone": "(240) 529-3141",
+    "photo": null,
+    "phone": null,
     "website": "https://iagostino.github.io",
-    "summary": "Currently a Ph.D. candidate at the University of California, Berkeley. Short biography for the left-hand sidebar",
-    "location": {
-      "address": "",
-      "postalCode": "94709",
-      "city": "Berkeley",
-      "countryCode": "US",
-      "region": ""
-    },
-    "profiles": [
+    "social_networks": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "Isabel Agostino",
-        "url": "https://orcid.org/0009-0004-0608-7554"
+        "network": "LinkedIn",
+        "username": "isabelagostino"
       },
       {
         "network": "GitHub",
-        "username": "iagostino",
-        "url": "https://github.com/iagostino"
+        "username": "iagostino"
       }
-    ]
-  },
-  "work": [
-    {
-      "company": "National Aeronautics and Space Administration - Ames Research Center",
-      "title": "OSTEM Intern",
-      "startDate": "2026-06-01",
-      "endDate": "2026-08-07",
-      "description":
+    ],
+    "custom_connections": [],
+    "sections": {
+      "education": [
+        {
+          "institution": "University of California, Berkeley",
+          "area": "Industrial Engineering & Operations Research",
+          "degree": "Ph.D.",
+          "date": null,
+          "start_date": "2024-08",
+          "end_date": "2028-05",
+          "location": "Berkeley, CA",
+          "summary": null,
+          "highlights": [
+            "Advisor: Dr. Thibaut Mastrolia",
+            "Research stochastic optimal control and Markov decision processes using dynamic programming and Monte Carlo methods to design control policies under uncertainty.",
+            "Work with Hawkes processes to model temporally clustered and self-exciting events; study how these exogeneous random events impact the environment and optimal controls."
+          ]
+        },
+        {
+          "institution": "University of California, Berkeley",
+          "area": "Industrial Engineering & Operations Research",
+          "degree": "M.S.",
+          "date": null,
+          "start_date": "2023-08",
+          "end_date": "2024-08",
+          "location": "Berkeley, CA",
+          "summary": "Worked with Dr. Alper Atamtürk, on Resilient Logistics US Department of Defense, Office of Naval Research",
+          "highlights": [
+            "Designed and implemented large-scale, constraint-intensive optimization models for multi-stage supply chain routing and scheduling; incorporated operational, capacity, timing, and resource constraints across distributed logistics networks.",
+            "Developed stochastic and scenario-based modeling components to account for uncertainty in demand, transit times, and system disruptions.",
+            "Built scalable algorithms to solve high-dimensional routing and scheduling problems and evaluated performance across simulated operational scenarios.",
+            "Iteratively refined models through collaboration with Navy stakeholders and multi-university research teams to ensure operational realism and robustness.",
+            "Contributed to the development of a deployable decision-support tool, including visualization and reporting components, to support data-driven logistics planning for end users."
+          ]
+        },
+        {
+          "institution": "William & Mary",
+          "area": "Mathematics with Economics minor",
+          "degree": "B.S.",
+          "start_date": "2018-08",
+          "end_date": "2022-05",
+          "location": "Williamsburg, VA",
+          "highlights": ["Thesis: Approximating Star-Discrepancy with a Genetic Algorithm"],
+          "summary": "Graduated summa cum laude and phi beta kappa with departmental honors."
+        }
+      ],
+      "experience": [
+        {
+          "company": "National Aeronautics and Space Administration, AMES Research Center",
+          "position": "OSTEM Intern",
+          "date": null,
+          "start_date": "2026-06",
+          "end_date": "2026-08",
+          "location": "Mountain View, CA",
+          "summary": null,
+          "highlights": []
+        },
+        {
+          "company": "West Monroe Partners",
+          "position": "Consultant and Business Analyst",
+          "date": null,
+          "start_date": "2022-08",
+          "end_date": "2023-08",
+          "location": "Tysons, VA",
+          "summary": "Business Process Optimization Team",
+          "highlights": [
+            "Automated financial reporting workflows by developing data processing and validation pipelines, significantly reducing manual error rates and turnaround time.",
+            "Designed structured data querying and validation tools to improve reliability, traceability, and reproducibility of analytical outputs.",
+            "Standardized and documented data workflows to enhance transparency and ensure consistent execution across internal teams and client stakeholders.",
+            "Delivered user-oriented documentation and process guides to support adoption and long-term maintainability of automated tools."
+          ]
+        },
+        {
+          "company": "National Institute of Standards and Technology",
+          "position": "Summer Undergraduate Research Fellow",
+          "date": "Summer 2021",
+          "start_date": null,
+          "end_date": null,
+          "location": "Gaithersburg, MD",
+          "summary": "Research leading to honors thesis at William & Mary.",
+          "highlights": [
+            "Designed and implemented a scalable genetic algorithm to approximate star discrepancy in high-dimensional quasi-random sequences (an NP-hard optimization problem).",
+            "Evaluated convergence behavior, computational efficiency, and approximation quality across high-dimensional test cases.",
+            "Conducted statistical analysis of heuristic performance and benchmarked results against theoretical bounds and existing methods."
+          ]
+        }
+      ],
+      "projects": [],
+      "preprints": [
+        {
+          "title": "Approximation of Singular-Stopping Control Driven by Hawkes Processes via Rescaled MDPs",
+          "authors": ["*Isabel Agostino*", "Thibaut Mastrolia"],
+          "summary": null,
+          "doi": null,
+          "url": "https://arxiv.org/abs/2602.05025",
+          "journal": "arXiV preprints",
+          "date": "2026-02"
+        }
+      ],
+      "selected_honors": [
+        {
+          "bullet": "Outstanding Graduate Student Instructor Award (2026)"
+        },
+        {
+          "bullet": "UC Berkeley Chancellor's Fellowship (2024)"
+        },
+        {
+          "bullet": "James Monroe Scholars Program (2018)"
+        }
+      ],
+      "skills": [
+        {
+          "label": "Languages",
+          "details": "Python, Julia, R, SQL, MATLAB"
+        },
+        {
+          "label": "ML Frameworks",
+          "details": "PyTorch, scikit-learn, TensorFlow"
+        }
+      ],
+      "presentations": [
+        {
+          "title": "Unifying Discrete and Continuous Time Mixed Optimal Stopping-singular Stochastic Optimization for Power Plant Investment — 2025 SIAM Conference on Financial Mathematics and Engineering (FM25) mini-symposium in Recent Advances in Stochastic Control with Multiple Players, Incentives, and Financial Economics"
+        }
+      ]
     }
-  ],
-  "education": [
-    {
-      "institution": "University of California, Berkeley",
-      "area": "Industrial Engineering & Operations Research",
-      "studyType": "Ph.D.",
-      "startDate": "2024",
-      "endDate": "2028",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "University of California, Berkeley",
-      "area": "Industrial Engineering & Operations Research",
-      "studyType": "M.S.",
-      "startDate": "2023",
-      "endDate": "2024",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "College of William & Mary",
-      "area": "Mathematics with minor in Economics",
-      "studyType": "B.S.",
-      "startDate": "2018",
-      "endDate": "2022",
-      "gpa": null,
-      "courses": []
-    }
-  ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "SIAM Conference on Financial Mathematics and Engineering (FM25)",
-      "date": "2025-07-16",
-      "location": "Miami, FL, USA",
-      "description": "Talk in mini-symposium 28: Recent Advances in Stochastic Control with Multiple Players, Incentives, and Financial Economics"
-    },
-  ],
-  "teaching": [
-    {
-      "course": "INDENG 241: Risk, Simulation, and Data Analysis",
-      "institution": "University of California, Berkeley - Department of Industrial Engineering & Operations Research",
-      "date": "Fall 2025",
-      "role": "Graduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  }
 }
